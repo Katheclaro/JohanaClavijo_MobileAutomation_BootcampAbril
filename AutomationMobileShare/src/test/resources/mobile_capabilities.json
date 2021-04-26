@@ -1,0 +1,11 @@
+{
+	"platformName": "Android",
+	"platformVersion": "11.0",
+	"deviceName": "emulator-5554",
+	"deviceOrientation": "portrait",
+	"appPackage": "com.disney.wdpro.dlr",
+	"appActivity": "com.disney.wdpro.park.activities.LoaderActivity",
+	"app": "/Users/johana.clavijo/AppData/Local/Android/Sdk/platform-tools/Disneyland.apk",
+	"automationName": "UiAutomator2",
+	"autoGrantPermissions": true
+}
